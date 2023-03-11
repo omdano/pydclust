@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+src/cpp/dclust.cpp
+src/cpp/experimental_heuristics.cpp
+src/cpp/dclust.cpp
+src/cpp/experimental_heuristics.cpp
+src/cpp/experimental_heuristics.h
+src/pydclust/__init__.py
+src/pydclust/dclust_wrapper.py
+src/pydclust.egg-info/PKG-INFO
+src/pydclust.egg-info/SOURCES.txt
+src/pydclust.egg-info/dependency_links.txt
+src/pydclust.egg-info/requires.txt
+src/pydclust.egg-info/top_level.txt
